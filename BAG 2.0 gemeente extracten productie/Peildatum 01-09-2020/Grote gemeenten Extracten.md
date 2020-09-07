@@ -2,7 +2,7 @@
 
 *Er zijn 14 gemeenten waarvan het BAG Extract te groot is om te delen via Github. Voor deze gemeenten is een Dropbox map aangemaakt*  
   
-*De link naar de Dropbox map kunt u [hier vinden](https://www.dropbox.com/sh/m8rg3duq5xglpyj/AADF5685pU6MULbfut1EvOMIa?dl=0)*
+*De link naar de Dropbox map kunt u [hier vinden](https://www.dropbox.com/sh/yfjniztbprir97p/AAAZlKlFYrOlEFbtGmk3-rkTa?dl=0)*
 
 **14 grote gemeenten**  
  
