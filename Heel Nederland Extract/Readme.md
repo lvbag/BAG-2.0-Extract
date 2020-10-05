@@ -1,4 +1,4 @@
-**Het BAG 2.0 Extract heel Nederland is beschikbaar. **  
+**Het BAG 2.0 Extract heel Nederland is beschikbaar.**  
 
 Het extract wordt tijdelijk beschikbaar gesteld door middel van een link welke met een beperkte geldigheid.  
 De link op Github zal ververst worden, zodat het bestand altijd op te vragen is.
