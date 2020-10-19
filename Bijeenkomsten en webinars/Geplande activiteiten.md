@@ -1,6 +1,7 @@
 **Geplande activiteiten**  
   
 _12 oktober_  
+
 De documentatie van deze bijeenkomst is terug te vinden in de map 12 oktober 2020.
   
 _01 juli_  
