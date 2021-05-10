@@ -1,10 +1,6 @@
 # BAG-2.0-Extract  
   
-Op deze Github pagina wordt informatie rondom het BAG 2.0 Extract verzameld.  
-Naast documentatie met betrekking tot de gegeven webinars en bijeenkomsten worden hier maandelijks BAG 2.0 Extracten geplaatst.
+Op deze Github pagina vindt u documentatie met betrekking tot de gegeven webinars over het BAG 2.0 Extract.  
+Tevens wordt hier periodiek de lijst met objecten die mogelijk fout gaan bij de verwerking van het BAG 2.0 Extract bijgewerkt.
 
-Elke maand wordt op de 15e van de maand de nieuwe BAG 2.0 gemeente Extracten aangemaakt en deze worden zo spoedig mogelijk na dit moment op Github geplaatst.  
-De BAG 2.0 Extracten worden na 3 maanden van Github verwijderd om de opslagcapaciteit zo min mogelijk te belasten.
-
-**LET OP!** Vanaf oktober worden er BAG 2.0 Extract op Github geplaatst welke gebaseerd zijn op een nieuwe versie van de XSD's. De nieuwe versie van de XSD's wordt binnenkort op Github en op de website van het Kadaster geplaatst.  
-  
+Voor meer informatie over het BAG 2.0 Extract verwijzen wij u graag naar de [pagina BAG 2.0 Extract](https://www.kadaster.nl/zakelijk/producten/adressen-en-gebouwen/bag-2.0-extract) op de website van het Kadaster.  
