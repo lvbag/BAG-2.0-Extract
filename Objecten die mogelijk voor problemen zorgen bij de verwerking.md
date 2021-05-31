@@ -1,4 +1,5 @@
-Vanaf mei 2021 zullen hier de BAG objectID's gedeeld worden die mogelijk fout gaan bij de verwerking.
+Vanaf mei 2021 zullen hier de BAG objectID's gedeeld worden die mogelijk fout gaan bij de verwerking.  
+Deze lijst is bijgewerkt tot 31 mei 2021
 
 **Objecten met een foutieve levenscyclus:**
   
