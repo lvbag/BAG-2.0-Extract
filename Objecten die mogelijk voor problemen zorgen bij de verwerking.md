@@ -67,7 +67,10 @@ Vanaf mei 2021 zullen hier de BAG objectID's gedeeld worden die mogelijk fout ga
 1883100000065180 |10 juni|
 1883100000065183 |10 juni|
 0491100001316905 |9 juni|
-1931100000001624 |9 juni|
+1931100000001624 |9 juni|  
+  
+| BAG ID        | Datum     | 
+| :------------- | :----------: |   
 1883100000065176 |7 juni|
 1883010000057456 | 5 juni |
 1883010000057018 | 5 juni |
